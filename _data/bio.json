@@ -194,8 +194,18 @@
   
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "K.Paragunarjan",
+      "reference": "Assistant Professor, Electronics and Communication Engineering"
+      "contact" : "k_pargunarajan@cb.amrita.edu"
+      
+      "name": "Albert Levo",
+      "reference": "Professor of Automatic Control
+      "contact" : "alberto.leva@polimi.it"
+      
+      "name": "Jayakumar.M",
+      "reference": "Professor and Chairperson, Electronics and Communication Engineering"
+      "contact": "m_jayakumar@cb.amrita.edu"
+      
     }
   ]
 }
